@@ -1,0 +1,5 @@
+.card .card-body .img-products {
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+}
